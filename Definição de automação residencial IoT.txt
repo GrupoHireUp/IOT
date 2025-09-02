@@ -1,0 +1,5 @@
+Automação residencial com IoT é a aplicação da Internet das Coisas no contexto das residências, 
+em que diferentes dispositivos e sistemas da casa são interligados por meio da internet, permitindo comunicação, 
+monitoramento e controle em tempo real. Esse processo transforma o ambiente doméstico em um espaço inteligente, 
+no qual as funções podem ser ajustadas de forma remota ou programada, garantindo maior praticidade no dia a dia, 
+otimização do consumo de recursos, aumento da segurança e personalização da rotina de acordo com as necessidades dos moradores.
