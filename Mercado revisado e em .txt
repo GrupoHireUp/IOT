@@ -1,4 +1,4 @@
-*Automação Residencial (IoT) – Mercado e Preços*
+Automação Residencial (IoT) – Mercado e Preços
 
 Mercado e Crescimento
 O setor de automação residencial global está projetado para crescer de US$ 72,3 bilhões 
@@ -6,8 +6,8 @@ em 2021 para US$ 163,2 bilhões até 2028, com uma taxa anual composta de 12,3
 No Brasil, houve aumento de 21,8% no segundo trimestre de 2024 comparado ao mesmo período de 2023.
 Dados de 2021 apontam crescimento anual estimado de 30% no mercado brasileiro para automação doméstica.
 
-Itens Comuns e Preços Médios (Brasil, 2025)
-Dispositivo:
+As instalações de automação residencial variam conforme o porte do imóvel e o nível de integração.
+Abaixo é apresentado alguns dispositivos comuns e suas faixas de preço estimadas para 2025:
 
 Lâmpada inteligente (Wi‑Fi)
 R$50–100
@@ -56,3 +56,39 @@ Automação integrada multiambiente
 Projetos profissionais
 ≥ R$5.000
 Sistemas robustos e personalizados
+
+3. Preços Médios de Instalações
+Instalações de automação residencial costumam começar em aproximadamente:
+- Apartamento pequeno: a partir de R$ 3.000;
+- Casa média: a partir de R$ 6.000;
+- Casa grande ou projeto completo: a partir de R$ 10.000, podendo ultrapassar R$ 30.000 dependendo da escala e qualidade dos equipamentos (Cronoshare; Bass Automação).
+Para um apartamento pequeno, é possível automatizar luzes e assistente de voz por até R$ 1.000 (nível básico) (Lar Automatizado).
+
+Referências
+REVISTA PRÉDIO INTELIGENTE. Mercado de automação residencial: alguns dados estatísticos relevantes. Publicado em 04/06/2025. 
+Disponível em: <https://www.revistaprediointeligente.com.br>. Acesso em: set. 2025.
+
+SMARTHOMEPRO. Crescimento da automação residencial no Brasil supera 30% ao ano. Atualizado em 06/09/2025. 
+Disponível em: <https://smarthomepro.com.br>. Acesso em: set. 2025.
+
+ABINEE. O futuro da automação residencial no Brasil: tendências, benefícios e oportunidades. Publicado em 2025.
+ Disponível em: <https://www.clipping.abinee.org.br>. Acesso em: set. 2025.
+
+FORBES BRASIL. Montar uma casa inteligente: quanto custa e do que você precisa?. Publicado em 02/03/2022.
+ Disponível em: <https://forbes.com.br>. Acesso em: set. 2025.
+
+CRONOSHARE. Quanto custa a automação residencial? Aplicações e Preços em 2025. Publicado em 2025.
+ Disponível em: <https://www.cronoshare.com.br>. Acesso em: set. 2025.
+
+BASS AUTOMAÇÃO. Preços de automação residencial no Brasil. Publicado em 2025. 
+Disponível em: <https://bassautomacao.com.br>. Acesso em: set. 2025.
+
+LAR AUTOMATIZADO. 2025 apartamento pequeno e tecnológico com baixo custo. Publicado em 2025. 
+Disponível em: <https://larautomatizado.com>. Acesso em: set. 2025.
+
+TECMUNDO. Casas inteligentes: crescimento do mercado global e brasileiro. Publicado em 2025. 
+Disponível em: <https://www.tecmundo.com.br>. Acesso em: set. 2025.
+
+CLIPPING. Relatório de tendências de automação residencial no Brasil. Publicado em 2025. 
+Disponível em: <https://www.clipping.abinee.org.br>. Acesso em: set. 2025.
+
