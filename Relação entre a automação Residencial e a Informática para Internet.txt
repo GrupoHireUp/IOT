@@ -1,0 +1,13 @@
+A relação entre a automação Residencial e a Informática para Internet
+
+Conectividade: uso de redes e protocolos de internet para integrar dispositivos.
+
+Desenvolvimento Web: criação de sites e apps para controlar a casa inteligente.
+
+APIs: integração entre sistemas (Alexa, Google Home, sensores, câmeras).
+
+Segurança: proteção contra invasões digitais com criptografia e autenticação.
+
+Cloud: armazenamento e processamento de dados na nuvem.
+
+• O Técnico em Informática para Internet é quem cria as interfaces e garante a comunicação segura entre os dispositivos IoT e o usuário.
